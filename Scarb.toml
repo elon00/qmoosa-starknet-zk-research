@@ -1,0 +1,13 @@
+﻿[package]
+name = "qmoosa_starknet_zk_research"
+version = "0.1.0"
+edition = "2024_07"
+description = "Enterprise research suite for Starknet Cairo Felt252 arithmetic, STARK verification, and Sepolia testnet telemetry."
+
+[dependencies]
+starknet = ">=2.8.0"
+alexandria_math = { git = "https://github.com/keep-starknet-strange/alexandria.git" }
+
+[[target.starknet-contract]]
+sierra = true
+casm = true
