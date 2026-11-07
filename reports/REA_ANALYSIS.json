@@ -1,0 +1,80 @@
+{
+  "engine": "REA_Reverse_Engineer_Anything",
+  "status": "STRUCTURE_RECONSTRUCTED",
+  "analyzed_files": 24,
+  "manifest": {
+    "EVIDENCE_DOSSIER.md": {
+      "bytes": 2609
+    },
+    "README.md": {
+      "bytes": 403
+    },
+    "Scarb.toml": {
+      "bytes": 412
+    },
+    "reports\\PROJECT_SCORECARD.json": {
+      "bytes": 776
+    },
+    "scripts\\rea_inspector.py": {
+      "bytes": 1485
+    },
+    "scripts\\rsi_engine.py": {
+      "bytes": 2039
+    },
+    "src\\adapter.py": {
+      "bytes": 330
+    },
+    "src\\engine.py": {
+      "bytes": 1025
+    },
+    "src\\lib.cairo": {
+      "bytes": 31
+    },
+    "src\\pqc.py": {
+      "bytes": 1307
+    },
+    "src\\quicknode.py": {
+      "bytes": 344
+    },
+    "src\\research_registry.cairo": {
+      "bytes": 1022
+    },
+    "src\\rsi_rea.py": {
+      "bytes": 428
+    },
+    "src\\starknet_mcp.py": {
+      "bytes": 2311
+    },
+    "src\\x402.py": {
+      "bytes": 302
+    },
+    "src\\__init__.py": {
+      "bytes": 0
+    },
+    "tests\\reality_check_harness.py": {
+      "bytes": 1364
+    },
+    "tests\\test_baseline.py": {
+      "bytes": 762
+    },
+    "tests\\test_ecosystem.py": {
+      "bytes": 1192
+    },
+    "tests\\test_pqc.py": {
+      "bytes": 937
+    },
+    "tests\\__init__.py": {
+      "bytes": 0
+    },
+    ".github\\workflows\\ci.yml": {
+      "bytes": 347
+    },
+    ".github\\workflows\\codeql.yml": {
+      "bytes": 411
+    },
+    ".github\\workflows\\qmoosa-rsi-rea-sync.yml": {
+      "bytes": 531
+    }
+  },
+  "timestamp": 1794026390
+}
